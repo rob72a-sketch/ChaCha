@@ -43,3 +43,5 @@ Release/
 .vs/
 ### ----------------------------
 *.txt
+/Git-ChaCha/
+/Git-ChaCha/*.*
